@@ -1,7 +1,7 @@
 /**
  * Jangan Di Hapus!!
  * 
- * Buatan @SaipulAnuar (ᴹᴿ᭄ King Of Bear ×፝֟͜×)
+ * @SaipulAnuar (ᴹᴿ᭄ King Of Bear ×፝֟͜×)
  * Youtube: https://youtu.be/pwLZpdfO8AU
  * 
  * Ingin bikin fitur tapi tidak bisa coding?
