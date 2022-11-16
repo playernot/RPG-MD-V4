@@ -27,32 +27,32 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/drak_ipul123'
-global.syt = 'https://youtu.be/pwLZpdfO8AU'
-global.sgh = 'https://github.com/SaipulAnuar'
-global.sgc = 'https://chat.whatsapp.com/HAZ6yFgCafUAeDbNH33IrL'
-global.swa = 'wa.me/6288279268363'
-global.swb = 'https://'
+global.sig = 'https://instagram.com/xyrostore_real'
+global.syt = 'https://youtube.com/channel/UCxmiPxvXK5Q38egI0fjx8IQ'
+global.sgh = 'https://github.com/playernot'
+global.sgc = 'https://chat.whatsapp.com/LpBcyA1kkPJ3lr9umlqF6z'
+global.swa = 'wa.me/6285780036817'
+global.swb = 'wa.me/62895406800006'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '088279268363'
-global.povo = '-'
-global.pgopay = '088279268363'
+global.pdana = '085894403410'
+global.povo = '085894403410'
+global.pgopay = '085894403410'
 global.ppulsa = '-'
 global.ppulsa2 = '-'
-global.psaweria = 'https://saweria.co/raraharsita2'
+global.psaweria = 'https://saweria.co/xyrostore'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '17326319049'
-global.nomorown = '6288279268363'
-global.namebot = 'Yuki Adistyラ'
-global.nameown = 'ᴹᴿ᭄ King Of Bear ×፝֟͜×'
+global.nomorbot = '62895406800006'
+global.nomorown = '6285780036817'
+global.namebot = 'RoBotzOfixラ'
+global.nameown = 'Xyro Store ×፝֟͜×'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6288279268363', 'ᴹᴿ᭄ King Of Bear ×፝֟͜×', 'true']
+  ['6285780036817', 'Xyro Store ×፝֟͜×', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -119,10 +119,10 @@ global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.botintro = 'Hallo, Kenalin saya Yuki BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴹᴿ᭄ King Of Bear ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'ᴹᴿ᭄ King Of Bear ×፝֟͜×'
-global.umurowner = '22'
-global.asalowner = 'Amerika Serikat, New York'
-global.nomorowner = 'wa.me/6288279268363'
+global.nameowner = 'Xyro Store ×፝֟͜×'
+global.umurowner = '17'
+global.asalowner = 'Karawang , Indonesia'
+global.nomorowner = 'wa.me/6285780036817'
 global.pacarowner = 'Kepo amat sih;v'
 
 /*============== TEXT ==============*/
